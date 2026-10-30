@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-ddct-clarity."""
 
 from __future__ import annotations

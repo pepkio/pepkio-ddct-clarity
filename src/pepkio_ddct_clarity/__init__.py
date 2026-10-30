@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio ddct-clarity."""
 
 from .client import PepkioClient
